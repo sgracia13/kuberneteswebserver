@@ -2,7 +2,7 @@
 //import an instance of express.js framework
 const express = require('express')
 const app = express()
-var ip = require("ip")
+const ip = require("ip")
 
 //set port to localhost:3000
 const port = 3000
