@@ -2,6 +2,8 @@
 //import an instance of express.js framework
 const express = require('express')
 const app = express()
+
+//npm package that makes obtaining the ip address much easier
 const ip = require("ip")
 
 //set port to localhost:3000
