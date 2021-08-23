@@ -50,7 +50,7 @@ run this command ==>
 
     ``docker build -t [dockerhubusername]/[dockerrepositoryname]`` 
     
-This is convenction is best practice for a seamless push to docker hub. This will be the appname.
+This convention is best practice for a seamless push to docker hub. The '[dockerhubusername]/[dockerrepositoryname]' will become the 'appname'.
 
 7. Once the image is built, run the image with this command ==> 
 
